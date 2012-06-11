@@ -19,10 +19,10 @@ The script is fully functional; however, I don't have a good handle on providing
 ## Links
 * This code started as the demo code from [Using PocketSphinx with GStreamer and Python](http://cmusphinx.sourceforge.net/wiki/gstreamer).
 * Makes use of the [MythTV Frontend control socket](http://www.mythtv.org/wiki/Frontend_control_socket) and [MythTV Python bindings](http://www.mythtv.org/wiki/Python_bindings#Frontend.28host.2C_port.29).
-** Also useful: [mythremctl.py](http://www.mythtv.org/wiki/Mythremctl.py).
+ * Also useful: [mythremctl.py](http://www.mythtv.org/wiki/Mythremctl.py).
 * Language model and dictionary generated using the CMUSphinx online tool [lmtool](http://www.speech.cs.cmu.edu/tools/lmtool-new.html).
-** Using the file `sentence_corpus.txt` from this repo.
-** [Other sphinx language model resources](http://www.speech.cs.cmu.edu/sphinx/models/#lm).
+ * Using the file `sentence_corpus.txt` from this repo.
+ * [Other sphinx language model resources](http://www.speech.cs.cmu.edu/sphinx/models/#lm).
 
 ## License
 The original link for the LICENSE file of the demo code I used [is 404](http://cmusphinx.sourceforge.net/html/LICENSE), but the [Internet Archive has a copy](http://web.archive.org/web/20090626063031/http://cmusphinx.sourceforge.net/html/LICENSE). This project adheres to that license.
