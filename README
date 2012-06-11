@@ -4,6 +4,8 @@ This script listens to a small set of voice commands in US English and translate
 
 The script is fully functional; however, I don't have a good handle on providing echo cancellation, so a) the script will pick up audio from the playing television show and occasionally consider it to be a valid command, and b) it's almost impossible to issue voice commands while a show is playing or when there's other substantial background noise. Suggestions and pull requests would be most welcome. I'm testing the [webrtc echo cancelling](http://cgit.freedesktop.org/pulseaudio/webrtc-audio-processing/tree/README) functionality Pulseaudio 2.0 now, so I'll update here if I can figure something out.
 
+**Note**: I've been using the voice trigger "TiVo"; this is my own nickname for my MythTV HTPC, and used without permission of the [TiVo](http://www.tivo.com/) corporation.
+
 ## Requirements
 * Linux
 * [Pocketsphinx](http://cmusphinx.sourceforge.net/wiki/download/) 0.5+
