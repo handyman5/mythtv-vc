@@ -1,0 +1,28 @@
+tivo play
+tivo pause
+tivo escape
+tivo back
+tivo play latest daily show
+tivo play latest colbert
+tivo skip forward
+tivo skip back
+tivo volume down
+tivo volume up
+tivo select
+tivo enter
+tivo OK
+tivo menu
+tivo up
+tivo down
+tivo left
+tivo right
+tivo stop
+tivo page up
+tivo page down
+tivo mute
+tivo go
+tivo alto
+tivo bajo
+tivo baho
+coal bear
+
